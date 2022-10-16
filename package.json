@@ -13,6 +13,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {"http-server": "14.1.1"},
+  "engines" : { 
+    "npm" : "8.19.2",
+    "node" : "14.15.5"
+  },
   "bugs": {
     "url": "https://github.com/mutzon/html/issues"
   },
