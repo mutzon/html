@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutzon/html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {"http-server": "14.1.1"},
+  "bugs": {
+    "url": "https://github.com/mutzon/html/issues"
+  },
+  "homepage": "https://github.com/mutzon/html#readme"
+}
